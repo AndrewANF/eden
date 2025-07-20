@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "QmlLsp.qmlImportPaths": [
+      "/usr/lib/qt6/qml"
+    ]
+  }
+}
